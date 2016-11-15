@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HeartFill</string>
+    <string name="im_color">rojo</string>
 </resources>
