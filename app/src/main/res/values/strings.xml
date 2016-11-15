@@ -2,4 +2,5 @@
     <string name="app_name">HeartFill</string>
     <string name="im_color">rojo</string>
     <string name="im_nuevo">azul</string>
+    <string name="im_rojo">rojo</string>
 </resources>
